@@ -1,0 +1,7 @@
+{
+  "baseURL": "https://raw.githubusercontent.com/nahtnam/blog/COMMIT_REF/src/static/data/posts",
+  "posts": [
+    "building-a-blog-with-next-js.md",
+    "hello-world.md"
+  ]
+}
