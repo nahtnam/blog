@@ -2,7 +2,8 @@
   "title": "nahtnam's blog",
   "description": "my blog",
   "posts": [
-    "building-a-blog-with-next-js.md",
-    "hello-world.md"
+    "advice-to-my-friends",
+    "building-a-blog-with-next-js",
+    "hello-world"
   ]
 }
