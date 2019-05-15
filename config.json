@@ -1,0 +1,8 @@
+{
+  "title": "nahtnam's blog",
+  "description": "my blog",
+  "posts": [
+    "building-a-blog-with-next-js.md",
+    "hello-world.md"
+  ]
+}
