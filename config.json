@@ -1,6 +1,9 @@
 {
   "title": "nahtnam's blog",
   "description": "my blog",
+  "colors": {
+    "primary": "#3f51b5"
+  },
   "posts": [
     "advice-to-my-friends",
     "building-a-blog-with-next-js",
